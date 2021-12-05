@@ -1,2 +1,2 @@
 # Observer
-Discord bot for me and friends
+Discord bot for me and my friends
